@@ -1,15 +1,16 @@
 body {
   background-color: #3d3d5c;
+  height: 100vh;
 }
 
 .container-fluid {
   padding-top: 51px;
-  height: 100%;
 }
 
 .side-nav {
   background-color: #1f1f2e;
   height: 92vh;
+  box-shadow: 3px 0px 4px #1f1f2e;
 }
 
 .side-nav h3{
